@@ -1,6 +1,6 @@
 module awesomeProject
 
-go 1.24.1
+go 1.24
 
 require (
 	github.com/emersion/go-imap v1.2.1
